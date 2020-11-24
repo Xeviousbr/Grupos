@@ -16,7 +16,7 @@
         #map { height: 100% }
     </style>
 
-    <script src="https://maps.google.com/maps/api/js?key=AIzaSyDAH6dNL3MhTGmOmn94iJ8lAgbYXUatBh8&sensor=false" type="text/javascript"></script>
+    <script src="https://maps.google.com/maps/api/js?key=X&sensor=false" type="text/javascript"></script>
     <script type="text/javascript">
         //Sample code written by August Li
         var icon = new google.maps.MarkerImage("http://maps.google.com/mapfiles/ms/micons/blue.png",
